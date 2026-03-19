@@ -1100,7 +1100,7 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 36px;
     margin-bottom: 15px;
-    color: var(--text-dark);
+    color: #ffffff;
 }
 
 .modal-header p {
