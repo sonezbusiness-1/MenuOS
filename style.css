@@ -698,7 +698,7 @@ body {
 .modal-close { position: absolute; top: 1rem; right: 1rem; background: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255, 255, 255, 0.2); color: #fff; width: 40px; height: 40px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; transition: 0.3s; display: flex; align-items: center; justify-content: center; }
 .modal-close:hover { background: rgba(255, 0, 0, 0.2); border-color: #ff4444; transform: rotate(90deg); }
 .modal-header { text-align: center; margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 2px solid rgba(124, 233, 230, 0.2); }
-.modal-header h2 { color: #7ce9e6; font-size: 2rem; margin-bottom: 0.5rem; }
+.modal-header h2 { color: #ffffff; font-size: 2rem; margin-bottom: 0.5rem; }
 .modal-header p { color: #a0a0a0; font-size: 0.95rem; }
 .checkout-form { display: flex; flex-direction: column; gap: 2rem; }
 .form-section { background: rgba(0, 0, 0, 0.2); border: 1px solid rgba(124, 233, 230, 0.1); border-radius: 12px; padding: 1.5rem; }
